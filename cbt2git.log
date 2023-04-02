@@ -1,0 +1,5 @@
+2023-04-03 00:55:52.860275 - Initialized conversion of CBT524
+2023-04-03 00:55:52.898168 - Received CBT.V504.FILE524.PDS from FILE524.XMI 
+2023-04-03 00:55:52.901029 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE524.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:55:52.902245 - Found @FILE524.txt (text/plain) in CBT.V504.FILE524.PDS, moved to PDS/@FILE524
+2023-04-03 00:55:52.903505 - Found CPRDTAPE.txt (text/plain) in CBT.V504.FILE524.PDS, moved to PDS/CPRDTAPE
